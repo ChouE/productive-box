@@ -14,5 +14,5 @@ jobs:
         uses: journey-ad/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: dbaf0b3803b7ea87905e24241f63c94f
+          GIST_ID: bfe050cfc3ac616a8263985a2f83532c
           TIMEZONE: Asia/Shanghai
